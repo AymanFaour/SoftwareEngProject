@@ -17,6 +17,7 @@ public class Main extends Application {
 		
 	}
 	//HELLOOO FROM MAIN - osama
+	// what what what what what 
 	@Override
 	public void start(Stage primaryStage) {
 		try {
