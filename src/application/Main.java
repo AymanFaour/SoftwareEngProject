@@ -16,7 +16,7 @@ public class Main extends Application {
 	public static void setprimary(Stage prim){
 		
 	}
-	
+	//HELLOOO FROM MAIN
 	@Override
 	public void start(Stage primaryStage) {
 		try {
